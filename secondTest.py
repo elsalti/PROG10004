@@ -1,2 +1,2 @@
-print("This is the first version of secondTest file")
+print("Ths is the first version of secondTest file")
 
